@@ -148,7 +148,7 @@ python -m torch.distributed.launch \
 
 ## Citation
 
-<!-- Paper Link:  -->
+* arXiv: https://arxiv.org/abs/2207.04906
 
 ```bibtex
 @inproceedings{hlt-mt,
