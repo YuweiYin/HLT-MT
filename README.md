@@ -149,13 +149,22 @@ python -m torch.distributed.launch \
 ## Citation
 
 * arXiv: https://arxiv.org/abs/2207.04906
+* IJCAI Anthology: https://www.ijcai.org/proceedings/2022/619
 
 ```bibtex
-@inproceedings{hlt-mt,
-  title = {High-resource Language-specific Training for Multilingual Neural Machine Translation},
-  author = {Jian Yang and Yuwei Yin and Shuming Ma and Dongdong Zhang and Zhoujun Li and Furu Wei}
-  booktitle = {IJCAI 2022},
-  year = {2022},
+@inproceedings{hltmt,
+  title     = {High-resource Language-specific Training for Multilingual Neural Machine Translation},
+  author    = {Yang, Jian and Yin, Yuwei and Ma, Shuming and Zhang, Dongdong and Li, Zhoujun and Wei, Furu},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Lud De Raedt},
+  pages     = {4461--4467},
+  year      = {2022},
+  month     = {7},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2022/619},
+  url       = {https://doi.org/10.24963/ijcai.2022/619},
 }
 ```
 
