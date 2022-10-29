@@ -68,7 +68,7 @@ OPUS-100: [Improving Massively Multilingual Neural Machine Translation and Zero-
 * [Fairseq](https://github.com/pytorch/fairseq): 1.0.0
 
 ```bash
-cd HLT-MT/fairseq
+cd HLT-MT
 pip install --editable ./
 ```
 
