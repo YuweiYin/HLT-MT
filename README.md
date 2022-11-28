@@ -1,6 +1,6 @@
 # HLT-MT: High-resource Language-specific Training for Multilingual Neural Machine Translation
 
-![picture](https://yuweiyin.github.io/files/publications/2022-07-23-IJCAI-MNMT-HLT.png)
+![picture](https://www.yuweiyin.com/files/img/2022-07-23-IJCAI-HLT.png)
 
 ## Abstract
 
